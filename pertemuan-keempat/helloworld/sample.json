@@ -1,0 +1,33 @@
+{
+  "version": "1",
+  "download": {
+    "platform": {
+      "screens": [
+        "file.ext",
+        "file2.ext"
+      ]
+    },
+    "country": {
+      "countryname": [
+        "file.ext"
+      ]
+    }
+  },
+  "ignore": {
+    "all": [
+      "folder2/"
+    ],
+    "platform": {
+      "screens": [
+        "file3.ext",
+        "file4.ext",
+        "folder/"
+      ]
+    },
+    "country": {
+      "countryname": [
+        "file.ext"
+      ]
+    }
+  }
+}
