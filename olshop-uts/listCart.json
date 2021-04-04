@@ -1,0 +1,20 @@
+{
+  "posts": [
+   {
+    "id" : "nexus-s",
+    "name" : "Nexus S",
+    "price" : 3939921,
+    "imageUrl" : "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-google-nexus-s-1.jpg"
+   }  
+],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
